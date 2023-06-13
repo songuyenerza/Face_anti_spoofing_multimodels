@@ -28,7 +28,7 @@ Run on video (multi_models)
 python api_end2end.py
 ```
 Todo: add logic with multi frames ...
-## Turning two model
+## Tuning two model
 1. Model MobileNet (Original_code :[github](https://github.com/kprokofi/light-weight-face-anti-spoofing.git)):
 - Edit path folder images and path at file train_turning.py. Path '.csv' have format 0: spoof, 1: live
 ```bash
